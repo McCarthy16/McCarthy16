@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Jordan McCarthy
 
-<!--
-**McCarthy16/McCarthy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Distinguished Software Engineer (IC) at BigGeo, building the next generation of distributed spatial solutions.
 
-Here are some ideas to get you started:
+- 🧩 I gravitate toward big, hard problems.
+- 🔁 I like owning problems end to end: ideation, database layers, frontend, and everything in between.
+- ⚡ I like moving fast. Fast work environments, fast iteration, fast feedback loops.
+- 🤖 I lean heavily into AI-driven development to scale my output and contributions, and I'm always adapting that approach as the tools improve.
+- 🎓 I love learning new things: new tools, new patterns, new ways of thinking about a problem.
+- 🛠️ Individual contributor by choice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- 📁 <a href="https://github.com/McCarthy16/Git-Tasks">Git Tasks</a> - Git-native task and project management that lives inside your repository. 
+
+### 📫 Reach me
+
+<a href="mailto:jordmcc2008@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/jordan-mccarthy-tech/">LinkedIn</a>
